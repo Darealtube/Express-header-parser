@@ -1,0 +1,30 @@
+/****** Main Styling ******/
+
+html{
+  background: #534375;
+}
+
+body {
+  border-radius: 10%;
+  margin: 0 2em 0;
+  height: 90vh;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: lightgreen;
+	background-color: #201D1D;
+	text-align: center;
+}
+
+.container{
+  margin: 1em 2em 1em;
+  position: relative;
+  top: 8em;
+}
+
+
+#submit{
+  width: 60vw;
+  height: 10vh;
+  color: lightgreen;
+  background: black;
+}
